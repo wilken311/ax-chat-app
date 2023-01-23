@@ -1,5 +1,3 @@
-# assessment4-chat-app
-
 ## 🔗 Run Locally
 
 - Install Dependencies
